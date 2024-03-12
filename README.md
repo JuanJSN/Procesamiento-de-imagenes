@@ -4,7 +4,7 @@ Este es un ejemplo de la segmentación de una imagen superficial tomada desde US
 
 ## Imagen 1
 
-Link COLAB: 
+Link COLAB: https://colab.research.google.com/drive/1YSKrIFedzz2n9vMFwg0pwoiMCk_Iep0p?usp=drive_link
 
 ## Usage
 
